@@ -1,0 +1,23 @@
+# You can find more info: https://developers.trello.com/advanced-reference/board#post-1-boards
+name: "Meu Quadro Novo"
+defaultLabels: 'false'
+defaultLists: 'false'
+desc: ''
+# The id or name of the organization to add the board to
+idOrganization: ''
+# The id of the board to copy into the new board
+idBoardSource: ''
+# Components of the source board to copy.
+keepFromSource: ''
+# options: calendar / cardAging / recap / voting
+powerUps: ''
+prefs_permissionLevel: 'private'
+prefs_voting: 'disabled'
+prefs_comments: 'members'
+Default: 'members'
+prefs_invitations: 'members'
+prefs_selfJoin: 'true'
+prefs_cardCovers: 'true'
+Default: 'true'
+prefs_background: 'blue'
+prefs_cardAging: 'regular'
